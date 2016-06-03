@@ -1,0 +1,9 @@
+---
+applications:
+  - name: App1
+    elb: load-balancer-1
+    hosts: [host1, host2]
+
+  - name: App2
+    elb: load-balancer-2
+    hosts: [host3]
