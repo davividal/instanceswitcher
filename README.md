@@ -8,7 +8,7 @@ virtualenvwrapper friendly.
 Work in progress.
 
 
-= TL;DR
+# TL;DR
 
 ```
 git clone http://github.com/davividal/instanceswitcher && cd instanceswitcher
@@ -19,7 +19,7 @@ EOF
 python switch.py
 ```
 
-= How to use
+# How to use
 
 1. Clone this repo
 	```
